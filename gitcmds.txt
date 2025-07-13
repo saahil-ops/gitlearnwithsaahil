@@ -4,3 +4,4 @@ git status
 git rm --cached <file>
 git commit -m "arg"
 git restore
+git clone https://
